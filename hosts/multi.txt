@@ -13,7 +13,10 @@ ublock.org
 
 # Islamic Sites
 tarteel.io
+islamqa.org
 
+# DDNS
+twilightparadox.com
 
 # Others to be rechecked
 aax-eu.amazon.in
