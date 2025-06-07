@@ -1,0 +1,22 @@
+# Amazon Quip
+quip-amazon-cdn.com
+
+# Unifi 
+ui.com
+
+# Apple App Store
+apps.apple.com
+
+# Other Websites
+netbird.io
+ublock.org
+
+# Islamic Sites
+tarteel.io
+
+
+# Others to be rechecked
+aax-eu.amazon.in
+
+# Amazon Others
+amazonaws.com
