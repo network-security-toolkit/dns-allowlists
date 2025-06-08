@@ -22,7 +22,6 @@ twilightparadox.com
 aax-eu.amazon.in
 
 # Google News (to be reviewed)
-app-measurement.com
 in.appcenter.ms
 sports.live.glanceapis.com
 ssl.google-analytics.com
