@@ -21,5 +21,12 @@ twilightparadox.com
 # Others to be rechecked
 aax-eu.amazon.in
 
+# Google News (to be reviewed)
+app-measurement.com
+in.appcenter.ms
+sports.live.glanceapis.com
+ssl.google-analytics.com
+play.google.com
+
 # Amazon Others
 amazonaws.com
